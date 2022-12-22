@@ -12,7 +12,15 @@ body {
 h1 {
   font-size: 300px;
   font-weight: 800;
-  position: relative;
+  position: absolute;
   text-align: center;
-  top: 50px;
+  top: 0;
+  left: 100px;
+}
+
+p {
+  margin: 0;
+  padding:0 10px;
+  font-size: 24px;
+  font-weight: 800;
 }
